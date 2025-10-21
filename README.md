@@ -287,47 +287,91 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%"/>
+</div>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="All Trophies" width="95%"/>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### 🏆 Achievement Showcase
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=false&no-bg=false&column=3&row=3&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+**Total Achievements Unlocked** 🎯
+
+<div align="center">
+
+![Total Commits](https://img.shields.io/github/commit-activity/t/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=git&logoColor=white&label=Total%20Commits&color=8B5CF6)
+![Repos](https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&label=Repositories&style=for-the-badge&color=A78BFA&logo=repo&logoColor=white)
+![Contributions](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_gists&label=Public%20Gists&style=for-the-badge&color=7C3AED&logo=github&logoColor=white)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 Coding Platforms
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="120">
 <a href="https://leetcode.com/u/cC5dHLkJ0Y/">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="80" height="80" alt="LeetCode"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="70" height="70" alt="LeetCode"/>
 <br/><b>LeetCode</b>
+<br/>
+<img src="https://leetcard.jacoblin.cool/cC5dHLkJ0Y?theme=dark&font=Ubuntu&ext=activity" width="100%"/>
 </a>
 </td>
-<td align="center" width="140">
+<td align="center" width="120">
 <a href="https://www.hackerrank.com/profile/sagar_airee_cod1">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="80" height="80" alt="HackerRank"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="70" height="70" alt="HackerRank"/>
 <br/><b>HackerRank</b>
 </a>
 </td>
-<td align="center" width="140">
+</tr>
+<tr>
+<td align="center" width="120">
 <a href="https://tryhackme.com/p/sagar.airee">
-<img src="https://assets.tryhackme.com/img/favicon.png" width="80" height="80" alt="TryHackMe"/>
+<img src="https://assets.tryhackme.com/img/favicon.png" width="70" height="70" alt="TryHackMe"/>
 <br/><b>TryHackMe</b>
 </a>
 </td>
-<td align="center" width="140">
+<td align="center" width="120">
 <a href="https://kaggle.com/sagarsinghairee">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="80" height="80" alt="Kaggle"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="70" height="70" alt="Kaggle"/>
 <br/><b>Kaggle</b>
 </a>
 </td>
 </tr>
 </table>
 
+</div>
+
+### 🌟 Live GitHub Stats
+
+<div align="center">
+
+![Current Streak](https://img.shields.io/github/commit-activity/m/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Monthly%20Commits&color=blueviolet)
+![Stars Earned](https://img.shields.io/github/stars/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=yellow)
+![Followers](https://img.shields.io/github/followers/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=green)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
