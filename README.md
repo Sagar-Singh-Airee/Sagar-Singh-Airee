@@ -1,13 +1,7 @@
-
 <div align="center">
 
-<!-- Your LinkedIn-style Banner -->
+<!-- LinkedIn-style Banner -->
 <img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh Banner" />
-
-<br/>
-
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%8E%AE+Game+Developer+%7C+%F0%9F%92%BB+Full+Stack+Engineer;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+%F0%9F%94%90+Security+Researcher;%E2%9C%A8+Turning+Ideas+into+Digital+Masterpieces+%F0%9F%9A%80" alt="Typing Animation" />
 
 <br/>
 
@@ -21,7 +15,7 @@
 
 <br/>
 
-<!-- 3D Social Icons with Real Links -->
+<!-- 3D Social Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
     <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="70" height="70" alt="LinkedIn"/>
@@ -44,33 +38,41 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding"/>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> About Me
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<div align="center">
 
-```javascript
-const sagarSingh = {
-    title: "Full Stack Developer & Game Developer",
-    location: "India 🇮🇳",
-    currentFocus: "Atheno-Card",
-    workingOn: ["Game Development", "Web3", "AI Integration"],
-    learning: ["Unreal Engine 5", "Advanced UI/UX", "Cybersecurity"],
-    expertise: {
-        languages: ["Python", "C++", "JavaScript", "TypeScript"],
-        frameworks: ["React", "Next.js", "Django", "Express"],
-        specialties: ["Game Development", "Mobile Apps", "3D Modeling"]
-    },
-    funFact: "I debug with console.log and I'm not ashamed! 😎",
-    motto: "Trends fade, but culture lasts forever ⚡",
-    openToWork: true,
-    contact: "sagar.airee.coding@gmail.com"
-};
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-// Always learning, always building 🚀
-console.log("Let's create something amazing together!");
-```
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> **Sagar Singh**
 
-<br clear="right"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Location" width="20" /> Based in India | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Full Stack & Game Developer
+
+<br/>
+
+🚀 **Currently Building:** Atheno-Card - A revolutionary project blending innovation with creativity
+
+🎮 **Passion Projects:** Exploring the intersection of Web3, AI, and Unreal Engine 5
+
+💡 **Philosophy:** *"Trends fade, but culture lasts forever"* - I don't just follow trends, I create experiences that stand the test of time
+
+🎯 **Goals:** Building impactful solutions that solve real-world problems while pushing the boundaries of what's possible
+
+🌱 **Always Learning:** From blockchain to machine learning, game mechanics to system architecture
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Fun" width="25" /> *Proud console.log() debugger & semicolon enthusiast*
+
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
@@ -281,17 +283,21 @@ console.log("Let's create something amazing together!");
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j2pOFyP3TBEYXKk2Am/giphy.gif" width="50"/> Achievements & Trophies
+## <img src="https://media.giphy.com/media/j2pOFyP3TBEYXKk2Am/giphy.gif" width="50"/> GitHub Trophies & Achievements
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B" alt="Trophies" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="90%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="All Trophies" width="95%"/>
 
 <br/><br/>
 
-### 🎯 Coding Platforms - 3D Icons
+### 🎯 Coding Platforms
 
 <table align="center">
 <tr>
@@ -410,22 +416,3 @@ console.log("Let's create something amazing together!");
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
 </div>
-```
-
-## Important Note:
-
-Make sure to upload your `sagar.png` file to your GitHub repository first! The code assumes it's in the root directory of your `Sagar-Singh-Airee` repository. 
-
-If you uploaded it to a different location, update this line:
-```markdown
-<img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh Banner" />
-```
-
-This complete README now includes:
-- Your LinkedIn-style banner at the top
-- All your original sections (About Me, Tech Stack, GitHub Stats, Trophies, etc.)
-- Your Spotify music link
-- All animations and effects
-- Professional layout and design
-
-Just upload your `sagar.png` file to your repository and this will work perfectly!
