@@ -1,3 +1,26 @@
+
+<div align="center">
+
+<!-- Your LinkedIn-style Banner -->
+<img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh Banner" />
+
+<br/>
+
+<!-- Animated Typing Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%8E%AE+Game+Developer+%7C+%F0%9F%92%BB+Full+Stack+Engineer;%F0%9F%8E%A8+UI%2FUX+Designer+%7C+%F0%9F%94%90+Security+Researcher;%E2%9C%A8+Turning+Ideas+into+Digital+Masterpieces+%F0%9F%9A%80" alt="Typing Animation" />
+
+<br/>
+
+<!-- Real-Time Dynamic Metrics -->
+<div align="center">
+  <img height="40" src="https://img.shields.io/github/followers/Sagar-Singh-Airee?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b&logoColor=white" />
+  <img height="40" src="https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&style=for-the-badge&color=ec4899&label=Profile+Views&labelColor=831843" />
+  <img height="40" src="https://img.shields.io/github/stars/Sagar-Singh-Airee?label=Total+Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=78350f&logoColor=white" />
+  <img height="40" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&label=Repositories&style=for-the-badge&color=10b981&labelColor=064e3b&logo=repo" />
+</div>
+
+<br/>
+
 <!-- 3D Social Icons with Real Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
@@ -387,3 +410,22 @@ console.log("Let's create something amazing together!");
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
 </div>
+```
+
+## Important Note:
+
+Make sure to upload your `sagar.png` file to your GitHub repository first! The code assumes it's in the root directory of your `Sagar-Singh-Airee` repository. 
+
+If you uploaded it to a different location, update this line:
+```markdown
+<img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh Banner" />
+```
+
+This complete README now includes:
+- Your LinkedIn-style banner at the top
+- All your original sections (About Me, Tech Stack, GitHub Stats, Trophies, etc.)
+- Your Spotify music link
+- All animations and effects
+- Professional layout and design
+
+Just upload your `sagar.png` file to your repository and this will work perfectly!
