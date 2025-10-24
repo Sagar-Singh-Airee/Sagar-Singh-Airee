@@ -1,124 +1,132 @@
-<div align="center">
 
 <!-- LinkedIn-style Banner -->
 <img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh Banner" />
 
-<br/>
+<br/><br/>
 
-<!-- Real-Time Dynamic Metrics -->
-<div align="center">
-  <img height="40" src="https://img.shields.io/github/followers/Sagar-Singh-Airee?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b&logoColor=white" />
-  <img height="40" src="https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&style=for-the-badge&color=ec4899&label=Profile+Views&labelColor=831843" />
-  <img height="40" src="https://img.shields.io/github/stars/Sagar-Singh-Airee?label=Total+Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=78350f&logoColor=white" />
-  <img height="40" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&label=Repositories&style=for-the-badge&color=10b981&labelColor=064e3b&logo=repo" />
-</div>
-
-<br/>
-
-<!-- 3D Social Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="70" height="70" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/SagarSinghAiree">
-    <img src="https://img.icons8.com/3d-fluency/94/x.png" width="70" height="70" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/sagar.airee/">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="70" height="70" alt="Instagram"/>
-  </a>
-  <a href="mailto:sagar.airee.coding@gmail.com">
-    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="70" height="70" alt="Email"/>
-  </a>
-  <a href="https://github.com/Sagar-Singh-Airee">
-    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="70" height="70" alt="GitHub"/>
-  </a>
-</p>
+<!-- Premium Icon-Based Social Links -->
+<table align="center">
+<tr>
+<td align="center" width="100">
+<a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
+<br/><sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://x.com/SagarSinghAiree">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"/>
+<br/><sub><b>Twitter</b></sub>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://www.instagram.com/sagar.airee/">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80"/>
+<br/><sub><b>Instagram</b></sub>
+</a>
+</td>
+<td align="center" width="100">
+<a href="https://www.youtube.com/@Acrejz_X">
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80"/>
+<br/><sub><b>YouTube</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;About Me&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> **Sagar Singh**
+<br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Location" width="20" /> Based in India | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Full Stack & Game Developer
+```yaml
+name: Sagar Singh
+location: India 🇮🇳
+role: Full Stack & Game Developer
+current_project: Atheno-Card
+passion: Web3 × AI × Unreal Engine 5
+philosophy: "Culture over Trends"
+status: Open to Work ✨
+```
 
 <br/>
 
-🚀 **Currently Building:** Atheno-Card - A revolutionary project blending innovation with creativity
+### 🚀 What I'm Up To
 
-🎮 **Passion Projects:** Exploring the intersection of Web3, AI, and Unreal Engine 5
+```javascript
+const sagar = {
+    code: ["Python", "C++", "JavaScript", "TypeScript", "Java"],
+    technologies: {
+        frontend: ["React", "Next.js", "Vue", "Tailwind CSS"],
+        backend: ["Node.js", "Django", "Flask", "Express"],
+        mobile: ["React Native", "Flutter"],
+        gamedev: ["Unreal Engine", "Unity", "Blender"],
+        aiml: ["TensorFlow", "PyTorch", "scikit-learn"],
+        devops: ["Docker", "Kubernetes", "AWS", "GCP"]
+    },
+    currentFocus: "Building revolutionary experiences",
+    funFact: "Debug with console.log() like a boss 😎"
+};
+```
 
-💡 **Philosophy:** *"Trends fade, but culture lasts forever"* - I don't just follow trends, I create experiences that stand the test of time
-
-🎯 **Goals:** Building impactful solutions that solve real-world problems while pushing the boundaries of what's possible
-
-🌱 **Always Learning:** From blockchain to machine learning, game mechanics to system architecture
-
-<br/>
+<br clear="right"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Fun" width="25" /> *Proud console.log() debugger & semicolon enthusiast*
-
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
+[![Open to Work](https://img.shields.io/badge/🤝_Open_to_Work-Let's_Collaborate-00D9FF?style=for-the-badge&labelColor=1a1a1a&color=00D9FF)](mailto:sagar.airee.coding@gmail.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"/> Tech Arsenal & Expertise
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/> Tech Arsenal & Expertise
 
 </div>
+
+<br/>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java,html,css&perline=4&theme=dark" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="35"> Languages
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-Expert-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript"/>
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui&perline=4&theme=dark" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> Frontend
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=flat-square&logo=redux&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Redux-Advanced-764ABC?style=flat-square&logo=redux"/>
 </div>
 
 </td>
@@ -127,38 +135,29 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/kdQuCqJUZereGAUoyZ/giphy.gif" width="30"> Backend & Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,firebase&perline=4&theme=dark" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> Backend
 
 <div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat-square&logo=redis&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,firebase&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat-square&logo=redis"/>
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Game Development & 3D
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs&perline=4&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35"> Game Dev
 
 <div align="center">
-
-![Game Dev](https://img.shields.io/badge/Game_Dev-Advanced-FF6B6B?style=flat-square&logo=gamepad&logoColor=white)
-![3D Modeling](https://img.shields.io/badge/3D_Modeling-Intermediate-FF9800?style=flat-square&logo=blender&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs"/>
 </div>
 
 </td>
@@ -167,38 +166,28 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30"> AI/ML & Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&perline=3&theme=dark" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="jupyter"/>
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="35"> AI/ML
 
 <div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch"/>
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,githubactions&perline=4&theme=dark" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="35"> DevOps
 
 <div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,githubactions&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </div>
 
 </td>
@@ -207,256 +196,169 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,androidstudio&perline=4&theme=dark" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257464-8f0605e4-7b71-4dfc-9735-4be9ca8c42ab.gif" width="35"> Mobile
 
 <div align="center">
-
-![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat-square&logo=flutter&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=react,flutter,kotlin,androidstudio&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat-square&logo=flutter"/>
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="30"> Design & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,vscode,vim,postman,notion&perline=4&theme=dark" />
-</p>
+### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"> Design
 
 <div align="center">
-
-![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,vscode,vim,postman,notion&perline=4&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Figma-Expert-F24E1E?style=flat-square&logo=figma"/>
+<img src="https://img.shields.io/badge/VS_Code-Expert-007ACC?style=flat-square&logo=visualstudiocode"/>
 </div>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> GitHub Analytics & Statistics
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100"/> Live Performance Dashboard
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Singh-Airee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=8B5CF6&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="70%" />
+<!-- Dynamic Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=FF6EC7&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Singh-Airee&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css&cache_seconds=1800" height="200"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Singh-Airee&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=A78BFA&point=8B5CF6&area=true&area_color=8B5CF6" alt="Contribution Graph" width="90%"/>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Sagar-Singh-Airee&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=FF6EC7&currStreakLabel=00D9FF&sideNums=FF6EC7&sideLabels=FFFFFF&dates=FFFFFF&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" width="60%"/>
+
+<br/><br/>
+
+<!-- Live Metrics -->
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&style=for-the-badge&logo=github&label=REPOSITORIES&color=00D9FF&labelColor=000000" height="32"/>
+<img src="https://img.shields.io/github/commit-activity/m/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=github&label=MONTHLY%20COMMITS&color=FF6EC7&labelColor=000000" height="32"/>
+<img src="https://img.shields.io/github/last-commit/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=00FF9F&labelColor=000000" height="32"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j2pOFyP3TBEYXKk2Am/giphy.gif" width="50"/> GitHub Trophies & Achievements
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100"/> Achievement Vault
 
 </div>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 Achievement Showcase
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=false&no-bg=false&column=3&row=3&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+<!-- Trophy Wall -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%"/>
 
 </div>
 
-**Total Achievements Unlocked** 🎯
+<br/>
 
-<div align="center">
+### <div align="center">🎯 Coding Battle Arenas</div>
 
-![Total Commits](https://img.shields.io/github/commit-activity/t/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=git&logoColor=white&label=Total%20Commits&color=8B5CF6)
-![Repos](https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&label=Repositories&style=for-the-badge&color=A78BFA&logo=repo&logoColor=white)
-![Contributions](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_gists&label=Public%20Gists&style=for-the-badge&color=7C3AED&logo=github&logoColor=white)
+<br/>
 
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Coding Platforms
-
-<div align="center">
-
-<table>
+<table align="center" width="90%">
 <tr>
-<td align="center" width="120">
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+<br/><br/>
+<b>LEETCODE</b>
+<br/><br/>
 <a href="https://leetcode.com/u/cC5dHLkJ0Y/">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="70" height="70" alt="LeetCode"/>
-<br/><b>LeetCode</b>
+<img src="https://leetcard.jacoblin.cool/cC5dHLkJ0Y?theme=dark&font=Ubuntu&ext=heatmap&cache_seconds=1800" width="100%"/>
+</a>
 <br/>
-<img src="https://leetcard.jacoblin.cool/cC5dHLkJ0Y?theme=dark&font=Ubuntu&ext=activity" width="100%"/>
+<a href="https://leetcode.com/u/cC5dHLkJ0Y/">
+<img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </td>
-<td align="center" width="120">
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+<br/><br/>
+<b>HACKERRANK</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Problem_Solving-5_⭐-00EA64?style=flat-square&logo=hackerrank&logoColor=white" height="30"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/C++-5_⭐-00EA64?style=flat-square&logo=cplusplus&logoColor=white" height="30"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-5_⭐-00EA64?style=flat-square&logo=python&logoColor=white" height="30"/>
+<br/><br/>
 <a href="https://www.hackerrank.com/profile/sagar_airee_cod1">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="70" height="70" alt="HackerRank"/>
-<br/><b>HackerRank</b>
+<img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </td>
-</tr>
-<tr>
-<td align="center" width="120">
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="80"/>
+<br/><br/>
+<b>TRYHACKME</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Cybersecurity-Active_Learner-C11111?style=flat-square&logo=tryhackme&logoColor=white" height="30"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Path-Penetration_Testing-C11111?style=flat-square&logo=tryhackme&logoColor=white" height="30"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-In_Progress-C11111?style=flat-square&logo=tryhackme&logoColor=white" height="30"/>
+<br/><br/>
 <a href="https://tryhackme.com/p/sagar.airee">
-<img src="https://assets.tryhackme.com/img/favicon.png" width="70" height="70" alt="TryHackMe"/>
-<br/><b>TryHackMe</b>
+<img src="https://img.shields.io/badge/View_Profile-C11111?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="120">
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+<br/><br/>
+<b>KAGGLE</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/Data_Science-Competitor-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="30"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/ML_Models-Creator-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="30"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Datasets-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="30"/>
+<br/><br/>
 <a href="https://kaggle.com/sagarsinghairee">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="70" height="70" alt="Kaggle"/>
-<br/><b>Kaggle</b>
+<img src="https://img.shields.io/badge/View_Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 </td>
 </tr>
 </table>
 
-</div>
-
-### 🌟 Live GitHub Stats
-
-<div align="center">
-
-![Current Streak](https://img.shields.io/github/commit-activity/m/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Monthly%20Commits&color=blueviolet)
-![Stars Earned](https://img.shields.io/github/stars/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=green)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/> Connect With Me
+### 💭 Developer's Daily Dose
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00D9FF" width="65%"/>
 
-<br/>
+<br/><br/>
 
-### 💼 Let's Build Something Amazing Together
-
-<table align="center">
-<tr>
-<td align="center" width="140">
-<a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-<img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80" height="80" alt="LinkedIn"/>
-<br/><b>LinkedIn</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="https://github.com/Sagar-Singh-Airee">
-<img src="https://img.icons8.com/3d-fluency/94/github.png" width="80" height="80" alt="GitHub"/>
-<br/><b>GitHub</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="https://x.com/SagarSinghAiree">
-<img src="https://img.icons8.com/3d-fluency/94/x.png" width="80" height="80" alt="X"/>
-<br/><b>X</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="https://www.instagram.com/sagar.airee/">
-<img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80" height="80" alt="Instagram"/>
-<br/><b>Instagram</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="https://www.youtube.com/@Acrejz_X">
-<img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="80" height="80" alt="YouTube"/>
-<br/><b>YouTube</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="mailto:sagar.airee.coding@gmail.com">
-<img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="80" height="80" alt="Email"/>
-<br/><b>Email</b>
-</a>
-</td>
-</tr>
-</table>
+## ✨ *"Trends fade. Culture lasts. I build for eternity."* ✨
 
 <br/>
 
-### 💭 Dev Quote of the Day
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%"/>
+<br/><br/>
 
-<br/>
-
-### 🎵 Spotify Playing
-
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=0d1117&border_color=8B5CF6)](https://open.spotify.com/track/3cHzrMhfYJOItIZd0kPVUR?si=aa77673aaf6a49f3)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br/>
-
-### ✨ *"In a world of temporary trends, I build lasting culture"* ✨
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br/>
-
-**Made with 💜 and ☕ by Sagar Singh**
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-
-</div>
+**Crafted with 💜 Innovation & ☕ Passion**
