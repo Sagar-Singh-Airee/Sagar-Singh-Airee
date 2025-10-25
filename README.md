@@ -5,63 +5,86 @@
   
   <!-- 3D Animated Profile Card -->
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 20px; margin: 20px 0; box-shadow: 0 20px 40px rgba(0,0,0,0.3);">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 15px 35px rgba(0,0,0,0.4); filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
     <h2 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🚀 Sagar Singh Airee</h2>
     <p style="color: #f0f0f0; font-size: 18px; margin: 10px 0;">Full Stack & Game Developer | AI Enthusiast</p>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
       <img src="https://img.shields.io/badge/Status-Open_to_Work-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Location-India-FF6EC7?style=for-the-badge&logo=location&logoColor=white"/>
     </div>
+    
+    <!-- Visitor Counter -->
+    <div style="margin-top: 15px;">
+      <img src="https://visitor-badge.glitch.me/badge?page_id=Sagar-SINGH-Airee.Sagar-SINGH-Airee" alt="Visitors" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+    </div>
   </div>
 </div>
 
 <br/><br/>
 
-<!-- Premium 3D Social Media Links -->
-<div align="center">
-  <h3 style="color: #00D9FF; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🌟 Connect With Me</h3>
+<!-- Ultra Premium 3D Social Media Links -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 30px; margin: 30px 0; box-shadow: 0 25px 50px rgba(0,0,0,0.3);">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" style="filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+  <h3 style="color: white; margin: 20px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 2em;">🌟 Connect With Me</h3>
+  <p style="color: #f0f0f0; font-size: 16px; margin: 15px 0;">Let's build amazing things together!</p>
 </div>
 
-<table align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 30px; border-radius: 25px; box-shadow: 0 15px 35px rgba(0,0,0,0.3);">
-<tr>
-<td align="center" width="150" style="padding: 20px;">
-<a href="https://www.linkedin.com/in/sagar-singh-58a578386/" style="text-decoration: none;">
-<div style="background: linear-gradient(135deg, #0077b5, #005885); padding: 20px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,119,181,0.3); transition: transform 0.3s ease;">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" style="border-radius: 15px;"/>
-<br/><br/>
-<sub style="color: white; font-weight: bold; font-size: 16px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">LinkedIn</sub>
+<!-- Enhanced Social Media Grid -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 25px; margin: 30px 0;">
+
+<!-- LinkedIn Card -->
+<div style="background: linear-gradient(135deg, #0077b5, #005885); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(0,119,181,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg);">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" style="border-radius: 20px; filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h4 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">💼 LinkedIn</h4>
+    <a href="https://www.linkedin.com/in/sagar-singh-58a578386/" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 15px; margin-top: 10px;">
+        <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Connect</span>
+      </div>
+    </a>
+  </div>
 </div>
-</a>
-</td>
-<td align="center" width="150" style="padding: 20px;">
-<a href="https://x.com/SagarSinghAiree" style="text-decoration: none;">
-<div style="background: linear-gradient(135deg, #1da1f2, #0d8bd9); padding: 20px; border-radius: 20px; box-shadow: 0 10px 25px rgba(29,161,242,0.3); transition: transform 0.3s ease;">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" style="border-radius: 15px;"/>
-<br/><br/>
-<sub style="color: white; font-weight: bold; font-size: 16px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Twitter</sub>
+
+<!-- Twitter Card -->
+<div style="background: linear-gradient(135deg, #1da1f2, #0d8bd9); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(29,161,242,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg);">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80" style="border-radius: 20px; filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h4 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🐦 Twitter</h4>
+    <a href="https://x.com/SagarSinghAiree" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 15px; margin-top: 10px;">
+        <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Follow</span>
+      </div>
+    </a>
+  </div>
 </div>
-</a>
-</td>
-<td align="center" width="150" style="padding: 20px;">
-<a href="https://www.instagram.com/sagar.airee/" style="text-decoration: none;">
-<div style="background: linear-gradient(135deg, #e4405f, #c13584); padding: 20px; border-radius: 20px; box-shadow: 0 10px 25px rgba(228,64,95,0.3); transition: transform 0.3s ease;">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" style="border-radius: 15px;"/>
-<br/><br/>
-<sub style="color: white; font-weight: bold; font-size: 16px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Instagram</sub>
+
+<!-- Instagram Card -->
+<div style="background: linear-gradient(135deg, #e4405f, #c13584); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(228,64,95,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg);">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" style="border-radius: 20px; filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h4 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">📸 Instagram</h4>
+    <a href="https://www.instagram.com/sagar.airee/" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 15px; margin-top: 10px;">
+        <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Follow</span>
+      </div>
+    </a>
+  </div>
 </div>
-</a>
-</td>
-<td align="center" width="150" style="padding: 20px;">
-<a href="https://www.youtube.com/@Acrejz_X" style="text-decoration: none;">
-<div style="background: linear-gradient(135deg, #ff0000, #cc0000); padding: 20px; border-radius: 20px; box-shadow: 0 10px 25px rgba(255,0,0,0.3); transition: transform 0.3s ease;">
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" style="border-radius: 15px;"/>
-<br/><br/>
-<sub style="color: white; font-weight: bold; font-size: 16px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">YouTube</sub>
+
+<!-- YouTube Card -->
+<div style="background: linear-gradient(135deg, #ff0000, #cc0000); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(255,0,0,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg);">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80" style="border-radius: 20px; filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h4 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🎥 YouTube</h4>
+    <a href="https://www.youtube.com/@Acrejz_X" style="text-decoration: none;">
+      <div style="background: rgba(255,255,255,0.2); padding: 10px 20px; border-radius: 15px; margin-top: 10px;">
+        <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Subscribe</span>
+      </div>
+    </a>
+  </div>
 </div>
-</a>
-</td>
-</tr>
-</table>
+
+</div>
 
 </div>
 
@@ -134,69 +157,69 @@ const sagar = {
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
 
 <!-- Languages Card -->
-<div style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255,107,107,0.3); transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(255,107,107,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg) rotateY(-5deg);">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-    <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">💻 Languages</h3>
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css&perline=4&theme=dark" style="filter: brightness(1.2);"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" style="filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h3 style="color: white; margin: 15px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 1.3em;">💻 Languages</h3>
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 20px; margin: 20px 0; backdrop-filter: blur(10px);">
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,html,css&perline=4&theme=dark" style="filter: brightness(1.3) drop-shadow(0 5px 10px rgba(0,0,0,0.2));"/>
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <img src="https://img.shields.io/badge/Python-Expert-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-      <img src="https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus"/>
-      <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript"/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Python-Expert-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
     </div>
   </div>
 </div>
 
 <!-- Frontend Card -->
-<div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(78,205,196,0.3); transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(78,205,196,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(-5deg) rotateY(5deg);">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-    <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🎨 Frontend</h3>
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui&perline=4&theme=dark" style="filter: brightness(1.2);"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" style="filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h3 style="color: white; margin: 15px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 1.3em;">🎨 Frontend</h3>
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 20px; margin: 20px 0; backdrop-filter: blur(10px);">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui&perline=4&theme=dark" style="filter: brightness(1.3) drop-shadow(0 5px 10px rgba(0,0,0,0.2));"/>
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=nextdotjs"/>
-      <img src="https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-      <img src="https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux"/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=nextdotjs" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=for-the-badge&logo=tailwindcss" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Redux-Advanced-764ABC?style=for-the-badge&logo=redux" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
     </div>
   </div>
 </div>
 
 <!-- Backend Card -->
-<div style="background: linear-gradient(135deg, #45B7D1, #96C93D); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(69,183,209,0.3); transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #45B7D1, #96C93D); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(69,183,209,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg) rotateY(-5deg);">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-    <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">⚙️ Backend</h3>
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,firebase&perline=4&theme=dark" style="filter: brightness(1.2);"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" style="filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h3 style="color: white; margin: 15px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 1.3em;">⚙️ Backend</h3>
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 20px; margin: 20px 0; backdrop-filter: blur(10px);">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,firebase&perline=4&theme=dark" style="filter: brightness(1.3) drop-shadow(0 5px 10px rgba(0,0,0,0.2));"/>
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=nodedotjs"/>
-      <img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql"/>
-      <img src="https://img.shields.io/badge/Redis-Intermediate-DC382D?style=for-the-badge&logo=redis"/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=nodedotjs" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Redis-Intermediate-DC382D?style=for-the-badge&logo=redis" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
     </div>
   </div>
 </div>
 
 <!-- Game Dev Card -->
-<div style="background: linear-gradient(135deg, #FF9A9E, #FECFEF); padding: 25px; border-radius: 20px; box-shadow: 0 15px 35px rgba(255,154,158,0.3); transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #FF9A9E, #FECFEF); padding: 25px; border-radius: 25px; box-shadow: 0 20px 40px rgba(255,154,158,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateX(-5deg) rotateY(5deg);">
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-    <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🎮 Game Dev</h3>
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin: 15px 0;">
-      <img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs&perline=4&theme=dark" style="filter: brightness(1.2);"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" style="filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
+    <h3 style="color: white; margin: 15px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 1.3em;">🎮 Game Dev</h3>
+    <div style="background: rgba(255,255,255,0.15); padding: 25px; border-radius: 20px; margin: 20px 0; backdrop-filter: blur(10px);">
+      <img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs&perline=4&theme=dark" style="filter: brightness(1.3) drop-shadow(0 5px 10px rgba(0,0,0,0.2));"/>
     </div>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
-      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine"/>
-      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity"/>
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs"/>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs" style="border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);"/>
     </div>
   </div>
 </div>
@@ -279,11 +302,11 @@ const sagar = {
 
 <br/>
 
-<!-- 3D Stats Cards Container -->
+<!-- Enhanced Stats Grid - Row 1 -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 30px; margin: 30px 0;">
 
 <!-- GitHub Stats Card -->
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); transition: all 0.3s ease; transform: perspective(1000px) rotateY(-5deg);">
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
     <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">📈 GitHub Statistics</h3>
@@ -294,7 +317,7 @@ const sagar = {
 </div>
 
 <!-- Language Stats Card -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); transition: transform 0.3s ease;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(0,0,0,0.3); transition: all 0.3s ease; transform: perspective(1000px) rotateY(5deg);">
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
     <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">💻 Language Distribution</h3>
@@ -306,8 +329,11 @@ const sagar = {
 
 </div>
 
-<!-- 3D Streak Card -->
-<div style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(255,107,107,0.3); margin: 30px 0;">
+<!-- Enhanced Stats Grid - Row 2 -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 30px; margin: 30px 0;">
+
+<!-- Coding Streak Card -->
+<div style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(255,107,107,0.3); transition: all 0.3s ease; transform: perspective(1000px) rotateX(-5deg);">
   <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
     <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🔥 Coding Streak</h3>
@@ -315,6 +341,19 @@ const sagar = {
       <img src="https://streak-stats.demolab.com?user=Sagar-SINGH-Airee&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=FF6EC7&currStreakLabel=00D9FF&sideNums=FF6EC7&sideLabels=FFFFFF&dates=FFFFFF&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);"/>
     </div>
   </div>
+</div>
+
+<!-- Contribution Snake Card -->
+<div style="background: linear-gradient(135deg, #4ECDC4, #44A08D); padding: 30px; border-radius: 25px; box-shadow: 0 20px 40px rgba(78,205,196,0.3); transition: all 0.3s ease; transform: perspective(1000px) rotateX(5deg);">
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
+    <h3 style="color: white; margin: 15px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🐍 Contribution Snake</h3>
+    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 20px; margin: 20px 0;">
+      <img src="https://github.com/Sagar-SINGH-Airee/Sagar-SINGH-Airee/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);"/>
+    </div>
+  </div>
+</div>
+
 </div>
 
 <!-- Premium Metrics Cards -->
@@ -443,42 +482,56 @@ const sagar = {
 
 ---
 
-<!-- Premium 3D Footer Section -->
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 50px; border-radius: 30px; margin: 30px 0; box-shadow: 0 25px 50px rgba(0,0,0,0.3);">
+<!-- Ultra Premium 3D Footer Section -->
+<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 50px; border-radius: 30px; margin: 30px 0; box-shadow: 0 25px 50px rgba(0,0,0,0.3); position: relative; overflow: hidden;">
+
+  <!-- Floating Background Elements -->
+  <div style="position: absolute; top: 20px; left: 20px; opacity: 0.1;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+  </div>
+  <div style="position: absolute; top: 20px; right: 20px; opacity: 0.1;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60"/>
+  </div>
+  <div style="position: absolute; bottom: 20px; left: 20px; opacity: 0.1;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
+  </div>
+  <div style="position: absolute; bottom: 20px; right: 20px; opacity: 0.1;">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60"/>
+  </div>
 
   <!-- Daily Quote Card -->
-  <div style="background: rgba(255,255,255,0.1); padding: 30px; border-radius: 25px; margin: 30px 0; backdrop-filter: blur(10px);">
+  <div style="background: rgba(255,255,255,0.15); padding: 30px; border-radius: 25px; margin: 30px 0; backdrop-filter: blur(15px); box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
-    <h3 style="color: white; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-size: 1.8em;">💭 Developer's Daily Dose</h3>
-    <div style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 20px; margin: 20px 0;">
+    <h3 style="color: white; margin: 20px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 1.8em;">💭 Developer's Daily Dose</h3>
+    <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 20px; margin: 20px 0;">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00D9FF" style="border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);"/>
     </div>
   </div>
 
   <!-- Philosophy Statement -->
-  <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 20px 40px rgba(255,107,107,0.3);">
+  <div style="background: linear-gradient(135deg, #FF6B6B, #FF8E8E); padding: 30px; border-radius: 25px; margin: 30px 0; box-shadow: 0 20px 40px rgba(255,107,107,0.3); transform: perspective(1000px) rotateX(5deg);">
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" style="filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));"/>
     <h2 style="color: white; margin: 20px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 2.2em;">✨ Philosophy ✨</h2>
     <p style="color: white; font-size: 1.4em; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-style: italic;">*"Trends fade. Culture lasts. I build for eternity."*</p>
   </div>
 
   <!-- Contact & Collaboration -->
-  <div style="background: rgba(255,255,255,0.1); padding: 30px; border-radius: 25px; margin: 30px 0; backdrop-filter: blur(10px);">
-    <h3 style="color: white; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-size: 1.8em;">🤝 Let's Build Something Amazing Together</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 25px 0;">
+  <div style="background: rgba(255,255,255,0.15); padding: 30px; border-radius: 25px; margin: 30px 0; backdrop-filter: blur(15px); box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
+    <h3 style="color: white; margin: 20px 0; text-shadow: 3px 3px 6px rgba(0,0,0,0.5); font-size: 1.8em;">🤝 Let's Build Something Amazing Together</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 25px 0;">
       <a href="mailto:acrejz123@gmail.com" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #00D9FF, #0099CC); padding: 15px 25px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,217,255,0.3); transition: transform 0.3s ease;">
-          <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">📧 Email Me</span>
+        <div style="background: linear-gradient(135deg, #00D9FF, #0099CC); padding: 15px 25px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0,217,255,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateY(-5deg);">
+          <span style="color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-size: 1.1em;">📧 Email Me</span>
         </div>
       </a>
       <a href="https://www.linkedin.com/in/sagar-singh-58a578386/" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #0077b5, #005885); padding: 15px 25px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,119,181,0.3); transition: transform 0.3s ease;">
-          <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">💼 LinkedIn</span>
+        <div style="background: linear-gradient(135deg, #0077b5, #005885); padding: 15px 25px; border-radius: 20px; box-shadow: 0 15px 30px rgba(0,119,181,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateY(5deg);">
+          <span style="color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-size: 1.1em;">💼 LinkedIn</span>
         </div>
       </a>
       <a href="https://github.com/Sagar-SINGH-Airee" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #333, #000); padding: 15px 25px; border-radius: 15px; box-shadow: 0 10px 25px rgba(51,51,51,0.3); transition: transform 0.3s ease;">
-          <span style="color: white; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">🐙 GitHub</span>
+        <div style="background: linear-gradient(135deg, #333, #000); padding: 15px 25px; border-radius: 20px; box-shadow: 0 15px 30px rgba(51,51,51,0.4); transition: all 0.3s ease; transform: perspective(1000px) rotateY(-5deg);">
+          <span style="color: white; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-size: 1.1em;">🐙 GitHub</span>
         </div>
       </a>
     </div>
@@ -486,13 +539,13 @@ const sagar = {
 
   <!-- Signature -->
   <div style="margin-top: 40px;">
-    <p style="color: #f0f0f0; font-size: 1.2em; margin: 20px 0; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">
+    <p style="color: #f0f0f0; font-size: 1.3em; margin: 20px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
       <strong>Crafted with 💜 Innovation & ☕ Passion</strong>
     </p>
-    <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" style="filter: drop-shadow(0 3px 6px rgba(0,0,0,0.3));"/>
-      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40" style="filter: drop-shadow(0 3px 6px rgba(0,0,0,0.3));"/>
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" style="filter: drop-shadow(0 3px 6px rgba(0,0,0,0.3));"/>
+    <div style="display: flex; justify-content: center; gap: 25px; margin: 20px 0;">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" style="filter: drop-shadow(0 5px 10px rgba(0,0,0,0.3));"/>
     </div>
   </div>
 
