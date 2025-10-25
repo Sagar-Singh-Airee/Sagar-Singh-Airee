@@ -1,21 +1,12 @@
 <div align="center">
 
-<!-- LinkedIn-style Banner -->
+<!-- LinkedIn-style Banner with Gradient Overlay -->
 <img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh Banner" />
 
 <br/>
 
-<!-- Real-Time Dynamic Metrics -->
-<div align="center">
-  <img height="40" src="https://img.shields.io/github/followers/Sagar-Singh-Airee?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b&logoColor=white" />
-  <img height="40" src="https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&style=for-the-badge&color=ec4899&label=Profile+Views&labelColor=831843" />
-  <img height="40" src="https://img.shields.io/github/stars/Sagar-Singh-Airee?label=Total+Stars&style=for-the-badge&logo=github&color=f59e0b&labelColor=78350f&logoColor=white" />
-  <img height="40" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&label=Repositories&style=for-the-badge&color=10b981&labelColor=064e3b&logo=repo" />
-</div>
 
-<br/>
-
-<!-- 3D Social Icons -->
+<!-- 3D Social Icons with Hover Effects -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
     <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="70" height="70" alt="LinkedIn"/>
@@ -26,17 +17,10 @@
   <a href="https://www.instagram.com/sagar.airee/">
     <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="70" height="70" alt="Instagram"/>
   </a>
-  <a href="mailto:sagar.airee.coding@gmail.com">
-    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="70" height="70" alt="Email"/>
-  </a>
-  <a href="https://github.com/Sagar-Singh-Airee">
-    <img src="https://img.icons8.com/3d-fluency/94/github.png" width="70" height="70" alt="GitHub"/>
-  </a>
 </p>
 
 </div>
 
----
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> About Me
 
@@ -46,33 +30,31 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> **Sagar Singh**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Location" width="20" /> Based in India | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Full Stack & Game Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0844&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Game+Development" alt="Typing SVG" />
 
 <br/>
 
-🚀 **Currently Building:** Atheno-Card - A revolutionary project blending innovation with creativity
-
-🎮 **Passion Projects:** Exploring the intersection of Web3, AI, and Unreal Engine 5
-
-💡 **Philosophy:** *"Trends fade, but culture lasts forever"* - I don't just follow trends, I create experiences that stand the test of time
-
-🎯 **Goals:** Building impactful solutions that solve real-world problems while pushing the boundaries of what's possible
-
-🌱 **Always Learning:** From blockchain to machine learning, game mechanics to system architecture
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Location" width="20" /> Based in India | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Full Stack 
 
 <br/>
 
-<div align="center">
+```javascript
+const sagar = {
+    currentProject: "Atheno-Card",
+    passions: ["Web3", "AI", "Unreal Engine 5"],
+    philosophy: "Trends fade, but culture lasts forever",
+    goals: "Building impactful solutions",
+    learning: ["Blockchain", "Machine Learning", "Game Mechanics"],
+    funFact: "Proud console.log() debugger"
+};
+```
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Fun" width="25" /> *Proud console.log() debugger & semicolon enthusiast*
+<br/>
 
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
 
 ---
 
@@ -80,7 +62,8 @@
 
 ## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"/> Tech Arsenal & Expertise
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 </div>
 
@@ -240,52 +223,115 @@
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> GitHub Analytics & Statistics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> GitHub Analytics & Deep Metrics
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Gradient Section Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 </div>
 
+<br/>
+
+<!-- Main Stats Cards with Shadow Effect -->
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&ring_color=8B5CF6" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0844&icon_color=ff0844&text_color=ffffff&ring_color=ff0844&border_radius=15" alt="GitHub Stats" width="100%" />
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Singh-Airee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Singh-Airee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0844&text_color=ffffff&langs_count=8&border_radius=15" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- Streak Stats with Gradient -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=radical&hide_border=true&background=0d1117&ring=ff0844&fire=ff0844&currStreakLabel=ff0844&sideNums=ff0844&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak" width="70%" />
+</div>
+
+<br/>
+
+<!-- Detailed Metrics Dashboard -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideNums=8B5CF6&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="70%" />
+### 📊 Detailed GitHub Metrics
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Singh-Airee&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=A78BFA&point=8B5CF6&area=true&area_color=8B5CF6" alt="Contribution Graph" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagar-Singh-Airee&theme=radical" width="90%" alt="Profile Details"/>
 
 </div>
+
+<br/>
+
+<!-- Advanced Analytics Grid -->
+<table align="center" width="90%">
+<tr>
+<td width="50%" align="center">
+
+**📈 Commit Activity Patterns**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sagar-Singh-Airee&theme=radical&utcOffset=5.5" width="100%" alt="Productive Time"/>
+
+</td>
+<td width="50%" align="center">
+
+**💻 Language Distribution**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sagar-Singh-Airee&theme=radical" width="100%" alt="Top Languages by Commit"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**⚡ Stats Overview**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sagar-Singh-Airee&theme=radical" width="100%" alt="Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+**🔥 Commit Distribution**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sagar-Singh-Airee&theme=radical" width="100%" alt="Repos per Language"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Activity Graph with Enhanced Styling -->
+<div align="center">
+
+### 📉 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Singh-Airee&theme=redical&hide_border=true&bg_color=0d1117&color=ff0844&line=ff0844&point=ffffff&area=true&area_color=ff0844&border_radius=15" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+<!-- Animated Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j2pOFyP3TBEYXKk2Am/giphy.gif" width="50"/> GitHub Trophies & Achievements
+## <img src="https://media.giphy.com/media/j2pOFyP3TBEYXKk2Am/giphy.gif" width="50"/> Achievements & Coding Platforms
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 </div>
 
@@ -295,58 +341,48 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Achievement Showcase
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=tokyonight&no-frame=false&no-bg=false&column=3&row=3&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-**Total Achievements Unlocked** 🎯
-
-<div align="center">
-
-![Total Commits](https://img.shields.io/github/commit-activity/t/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=git&logoColor=white&label=Total%20Commits&color=8B5CF6)
-![Repos](https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_repos&label=Repositories&style=for-the-badge&color=A78BFA&logo=repo&logoColor=white)
-![Contributions](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Sagar-Singh-Airee&query=$.public_gists&label=Public%20Gists&style=for-the-badge&color=7C3AED&logo=github&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=radical&no-frame=true&no-bg=false&column=3&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Coding Platforms
+### 🎯 Competitive Programming
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="50%">
 <a href="https://leetcode.com/u/cC5dHLkJ0Y/">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="70" height="70" alt="LeetCode"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="60" height="60" alt="LeetCode"/>
 <br/><b>LeetCode</b>
-<br/>
+<br/><br/>
 <img src="https://leetcard.jacoblin.cool/cC5dHLkJ0Y?theme=dark&font=Ubuntu&ext=activity" width="100%"/>
 </a>
 </td>
-<td align="center" width="120">
+<td align="center" width="50%">
 <a href="https://www.hackerrank.com/profile/sagar_airee_cod1">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="70" height="70" alt="HackerRank"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="60" height="60" alt="HackerRank"/>
 <br/><b>HackerRank</b>
 </a>
 </td>
 </tr>
 <tr>
-<td align="center" width="120">
+<td align="center" width="50%">
 <a href="https://tryhackme.com/p/sagar.airee">
-<img src="https://assets.tryhackme.com/img/favicon.png" width="70" height="70" alt="TryHackMe"/>
+<img src="https://assets.tryhackme.com/img/favicon.png" width="60" height="60" alt="TryHackMe"/>
 <br/><b>TryHackMe</b>
 </a>
 </td>
-<td align="center" width="120">
+<td align="center" width="50%">
 <a href="https://kaggle.com/sagarsinghairee">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="70" height="70" alt="Kaggle"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" width="60" height="60" alt="Kaggle"/>
 <br/><b>Kaggle</b>
 </a>
 </td>
@@ -355,73 +391,54 @@
 
 </div>
 
-### 🌟 Live GitHub Stats
-
-<div align="center">
-
-![Current Streak](https://img.shields.io/github/commit-activity/m/Sagar-Singh-Airee/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Monthly%20Commits&color=blueviolet)
-![Stars Earned](https://img.shields.io/github/stars/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=yellow)
-![Followers](https://img.shields.io/github/followers/Sagar-Singh-Airee?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=green)
-
-</div>
-
 </td>
 </tr>
 </table>
 
-<div align="center">
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
 
----
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/> Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/> Let's Connect & Collaborate
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Glassmorphism Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
 
 <br/>
 
-### 💼 Let's Build Something Amazing Together
+### 💼 Building the Future, One Commit at a Time
 
+<br/>
+
+<!-- Social Media Cards -->
 <table align="center">
 <tr>
-<td align="center" width="140">
+<td align="center" width="25%">
 <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
 <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80" height="80" alt="LinkedIn"/>
-<br/><b>LinkedIn</b>
+<br/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="140">
-<a href="https://github.com/Sagar-Singh-Airee">
-<img src="https://img.icons8.com/3d-fluency/94/github.png" width="80" height="80" alt="GitHub"/>
-<br/><b>GitHub</b>
-</a>
-</td>
-<td align="center" width="140">
+<td align="center" width="25%">
 <a href="https://x.com/SagarSinghAiree">
 <img src="https://img.icons8.com/3d-fluency/94/x.png" width="80" height="80" alt="X"/>
-<br/><b>X</b>
+<br/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="140">
+<td align="center" width="25%">
 <a href="https://www.instagram.com/sagar.airee/">
 <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80" height="80" alt="Instagram"/>
-<br/><b>Instagram</b>
+<br/>
+<img src="https://img.shields.io/badge/Instagram-Creative-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="140">
+<td align="center" width="25%">
 <a href="https://www.youtube.com/@Acrejz_X">
 <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="80" height="80" alt="YouTube"/>
-<br/><b>YouTube</b>
-</a>
-</td>
-<td align="center" width="140">
-<a href="mailto:sagar.airee.coding@gmail.com">
-<img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="80" height="80" alt="Email"/>
-<br/><b>Email</b>
+<br/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -429,34 +446,20 @@
 
 <br/>
 
-### 💭 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="70%"/>
-
-<br/>
-
-### 🎵 Spotify Playing
-
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify?background_color=0d1117&border_color=8B5CF6)](https://open.spotify.com/track/3cHzrMhfYJOItIZd0kPVUR?si=aa77673aaf6a49f3)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br/>
 
 ### ✨ *"In a world of temporary trends, I build lasting culture"* ✨
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <br/>
 
 **Made with 💜 and ☕ by Sagar Singh**
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+
+<br/>
+
+<!-- Visitor Counter with Style -->
+<img src="https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&style=for-the-badge&color=ff0844&label=Profile+Views"/>
 
 </div>
