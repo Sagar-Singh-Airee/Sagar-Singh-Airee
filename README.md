@@ -9,14 +9,19 @@
 <!-- 3D Social Icons with Hover Effects -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="70" height="70" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/SagarSinghAiree">
-    <img src="https://img.icons8.com/3d-fluency/94/x.png" width="70" height="70" alt="X"/>
+    <img src="https://img.icons8.com/3d-fluency/94/x.png" width="50" height="50" alt="X"/>
   </a>
   <a href="https://www.instagram.com/sagar.airee/">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="70" height="70" alt="Instagram"/>
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="50" height="50" alt="Instagram"/>
   </a>
+  <a href="https://www.youtube.com/@Acrejz_X">
+   <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="50" height="50" alt="YouTube"/>
+   <br/>
+  
+   </a>
 </p>
 
 </div>
