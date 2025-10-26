@@ -44,7 +44,7 @@
 
 <!-- NAME & TITLE -->
 <h2>
-  <img src="fox-dance.gif" alt="Developer" width="30" /> 
+  <img src="vicksy-fox.gif" alt="Developer" width="50" /> 
   Sagar Singh
 </h2>
 
