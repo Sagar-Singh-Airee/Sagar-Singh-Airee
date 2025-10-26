@@ -26,22 +26,58 @@
 
 </div>
 
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" /> About Me
 
 <div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table width="100%">
+<tr>
+<td width="35%" align="center" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> **Sagar Singh**
+<!-- DEVELOPER IMAGE -->
+<!-- Image name: developer-avatar.gif or developer-avatar.png -->
+<!-- Recommended ratio: 1:1 (Square) -->
+<!-- Recommended size: 400x400 pixels -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding Animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0844&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Game+Development" alt="Typing SVG" />
+<br/><br/>
+
+<!-- NAME & TITLE -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> 
+  Sagar Singh
+</h2>
+
+<h3 style="margin-top: -10px;">Full Stack Developer</h3>
+<h4 style="margin-top: -15px; color: #888;">Game Development Enthusiast</h4>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Location" width="20" /> Based in India | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" /> Full Stack 
+<!-- LOCATION & STATUS -->
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Location" width="18" /> 
+  <b>Based in India</b>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="18" /> 
+  <b>Full Stack Developer</b>
+</p>
 
 <br/>
+
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
+
+</td>
+<td width="65%" valign="top">
+
+<br/>
+
+## 👨‍💻 Introduction
+
+Hello! I'm **Sagar Singh**, a passionate Full Stack Developer who loves building impactful solutions. I specialize in creating seamless web applications and exploring the exciting world of game development with cutting-edge technologies.
+
+<br/>
+
+## 💡 My Developer Profile
 
 ```javascript
 const sagar = {
@@ -56,10 +92,42 @@ const sagar = {
 
 <br/>
 
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
+## 🎯 What I'm Working On
+
+<table>
+<tr>
+<td width="33%" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="50" height="50" alt="Web3"/>
+  <br/><br/>
+  <b>Web3 & Blockchain</b>
+  <br/>
+  <sub>Building decentralized applications</sub>
+</td>
+<td width="33%" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" height="50" alt="AI"/>
+  <br/><br/>
+  <b>Artificial Intelligence</b>
+  <br/>
+  <sub>Exploring ML & neural networks</sub>
+</td>
+<td width="33%" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50" height="50" alt="Game"/>
+  <br/><br/>
+  <b>Game Development</b>
+  <br/>
+  <sub>Creating experiences with UE5</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+</td>
+</tr>
+</table>
 
 </div>
-
 
 ---
 
@@ -326,10 +394,7 @@ const sagar = {
 
 </div>
 
-<!-- Animated Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
----
 
 <div align="center">
 
