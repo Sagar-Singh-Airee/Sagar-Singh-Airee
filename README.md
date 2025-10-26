@@ -38,7 +38,7 @@
 <!-- Image name: developer-avatar.gif or developer-avatar.png -->
 <!-- Recommended ratio: 1:1 (Square) -->
 <!-- Recommended size: 400x400 pixels -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Coding Animation"/>
+<img src="developer-avatar.gif" width="380" alt="Coding Animation"/>
 
 <br/><br/>
 
