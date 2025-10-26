@@ -44,7 +44,7 @@
 
 <!-- NAME & TITLE -->
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Developer" width="30" /> 
+  <img src="fox-dance.gif" alt="Developer" width="30" /> 
   Sagar Singh
 </h2>
 
