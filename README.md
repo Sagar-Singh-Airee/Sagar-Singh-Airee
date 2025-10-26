@@ -6,27 +6,11 @@
 <br/>
 
 
-<!-- 3D Social Icons with Hover Effects -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="70" height="70" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/SagarSinghAiree">
-    <img src="https://img.icons8.com/3d-fluency/94/x.png" width="70" height="70" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/sagar.airee/">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="70" height="70" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@Acrejz_X">
-   <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="68' height="100" alt="YouTube"/>
-   <br/>
-  
-   </a>
-</p>
+
 
 </div>
 
-# <img src="person-man.gif" alt="Wave" width="150" /> About Me
+# <img src="hii2.0.gif" alt="Wave" width="150" /> About Me
 
 <div align="center">
 
@@ -44,7 +28,7 @@
 
 <!-- NAME & TITLE -->
 <h2>
-  <img src="chibi.gif" alt="Developer" width="150" /> 
+  <img src="chibio.gif" alt="Developer" width="150" /> 
   Sagar Singh
 </h2>
 
@@ -133,7 +117,7 @@ const sagar = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"/> Tech Arsenal & Expertise
+## <img src="tech-stack.gif" width="80"/> Tech Stack
 
 <!-- Gradient Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
@@ -302,7 +286,7 @@ const sagar = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/> GitHub Analytics & Deep Metrics
+## <img src="metrix.gif" width="90"/> GitHub Analytics & Deep Metrics
 
 <!-- Gradient Section Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
@@ -388,17 +372,11 @@ const sagar = {
 <!-- Activity Graph with Enhanced Styling -->
 <div align="center">
 
-### 📉 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Singh-Airee&theme=redical&hide_border=true&bg_color=0d1117&color=ff0844&line=ff0844&point=ffffff&area=true&area_color=ff0844&border_radius=15" alt="Contribution Graph" width="95%"/>
-
-</div>
-
 
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j2pOFyP3TBEYXKk2Am/giphy.gif" width="50"/> Achievements & Coding Platforms
+## <img src="trophy.gif" width="90"/> Achievements & Coding Platforms
 
 <!-- Gradient Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
@@ -469,7 +447,7 @@ const sagar = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/> Let's Connect & Collaborate
+## <img src="connect.gif" width="95"/> Let's Connect & Collaborate
 
 <!-- Glassmorphism Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
@@ -478,46 +456,40 @@ const sagar = {
 
 ### 💼 Building the Future, One Commit at a Time
 
-<br/>
-
-<!-- Social Media Cards -->
+<!-- Social Media Cards with 3D SVG Icons -->
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-<img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80" height="80" alt="LinkedIn"/>
-<br/>
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2" width="150"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Professional-Network-blue?style=flat-square"/>
+  </a>
 </td>
 <td align="center" width="25%">
-<a href="https://x.com/SagarSinghAiree">
-<img src="https://img.icons8.com/3d-fluency/94/x.png" width="80" height="80" alt="X"/>
-<br/>
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+  <a href="https://x.com/SagarSinghAiree">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="150"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Follow-Latest_Updates-black?style=flat-square"/>
+  </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.instagram.com/sagar.airee/">
-<img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80" height="80" alt="Instagram"/>
-<br/>
-<img src="https://img.shields.io/badge/Instagram-Creative-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/sagar.airee/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="150"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Creative-Content-E4405F?style=flat-square"/>
+  </a>
 </td>
 <td align="center" width="25%">
-<a href="https://www.youtube.com/@Acrejz_X">
-<img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="80" height="80" alt="YouTube"/>
-<br/>
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+  <a href="https://www.youtube.com/@Acrejz_X">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="150"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Subscribe-Videos-red?style=flat-square"/>
+  </a>
 </td>
 </tr>
 </table>
 
-<br/>
-
-
-<br/>
 
 ### ✨ *"In a world of temporary trends, I build lasting culture"* ✨
 
@@ -525,11 +497,8 @@ const sagar = {
 
 **Made with 💜 and ☕ by Sagar Singh**
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+<img src="byy.gif" width="155"/>
 
 <br/>
-
-<!-- Visitor Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&style=for-the-badge&color=ff0844&label=Profile+Views"/>
 
 </div>
