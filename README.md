@@ -44,7 +44,7 @@
 
 <!-- NAME & TITLE -->
 <h2>
-  <img src="vicksy-fox.gif" alt="Developer" width="50" /> 
+  <img src="chibi.gif" alt="Developer" width="150" /> 
   Sagar Singh
 </h2>
 
@@ -97,21 +97,21 @@ const sagar = {
 <table>
 <tr>
 <td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="50" height="50" alt="Web3"/>
+  <img src="crypto.gif" width="150" height="150" alt="Web3"/>
   <br/><br/>
   <b>Web3 & Blockchain</b>
   <br/>
   <sub>Building decentralized applications</sub>
 </td>
 <td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" height="50" alt="AI"/>
+  <img src="robot.gif" width="150" height="150" alt="AI"/>
   <br/><br/>
   <b>Artificial Intelligence</b>
   <br/>
   <sub>Exploring ML & neural networks</sub>
 </td>
 <td width="33%" align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50" height="50" alt="Game"/>
+  <img src="game.gif" width="150" height="150" alt="Game"/>
   <br/><br/>
   <b>Game Development</b>
   <br/>
