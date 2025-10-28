@@ -95,7 +95,7 @@ const sagar = {
   <sub>Exploring ML & neural networks</sub>
 </td>
 <td width="33%" align="center">
-  <img src="game.gif" width="150" height="150" alt="Game"/>
+  <img src="gamee.gif" width="150" height="150" alt="Game"/>
   <br/><br/>
   <b>Game Development</b>
   <br/>
