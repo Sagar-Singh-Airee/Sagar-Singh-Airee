@@ -22,7 +22,7 @@
 <!-- Image name: developer-avatar.gif or developer-avatar.png -->
 <!-- Recommended ratio: 1:1 (Square) -->
 <!-- Recommended size: 400x400 pixels -->
-<img src="developer-avatar.gif" width="380" alt="Coding Animation"/>
+<img src="spider.gif" width="380" alt="Coding Animation"/>
 
 <br/><br/>
 
