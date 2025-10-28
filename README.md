@@ -5,9 +5,6 @@
 
 <br/>
 
-
-
-
 </div>
 
 # <img src="hii2.0.gif" alt="Wave" width="150" /> About Me
@@ -19,9 +16,6 @@
 <td width="35%" align="center" valign="top">
 
 <!-- DEVELOPER IMAGE -->
-<!-- Image name: developer-avatar.gif or developer-avatar.png -->
-<!-- Recommended ratio: 1:1 (Square) -->
-<!-- Recommended size: 400x400 pixels -->
 <img src="spider.gif" width="380" alt="Coding Animation"/>
 
 <br/><br/>
@@ -65,18 +59,19 @@ Hello! I'm **Sagar Singh**, a passionate Full Stack Developer who loves building
 
 ```javascript
 const sagar = {
+    role: "Full Stack Developer",
     currentProject: "Atheno-Card",
-    passions: ["Web3", "AI", "Unreal Engine 5"],
+    interests: ["Web Development", "Game Development", "Emerging Tech"],
     philosophy: "Trends fade, but culture lasts forever",
     goals: "Building impactful solutions",
-    learning: ["Blockchain", "Machine Learning", "Game Mechanics"],
+    exploring: ["Web3", "AI/ML", "Unreal Engine 5"],
     funFact: "Proud console.log() debugger"
 };
 ```
 
 <br/>
 
-## 🎯 What I'm Working On
+## 🎯 What I'm Exploring
 
 <table>
 <tr>
@@ -85,7 +80,7 @@ const sagar = {
   <br/><br/>
   <b>Web3 & Blockchain</b>
   <br/>
-  <sub>Building decentralized applications</sub>
+  <sub>Learning decentralized technologies</sub>
 </td>
 <td width="33%" align="center">
   <img src="robot.gif" width="150" height="150" alt="AI"/>
@@ -105,7 +100,6 @@ const sagar = {
 </table>
 
 <br/>
-
 
 </td>
 </tr>
@@ -136,10 +130,10 @@ const sagar = {
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Proficient-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </div>
 
@@ -154,10 +148,10 @@ const sagar = {
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React](https://img.shields.io/badge/React-Proficient-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Proficient-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-Proficient-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Proficient-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 </div>
 
@@ -175,10 +169,10 @@ const sagar = {
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Proficient-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Learning-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </div>
 
@@ -196,8 +190,8 @@ const sagar = {
 
 <div align="center">
 
-![Game Dev](https://img.shields.io/badge/Game_Dev-Advanced-FF6B6B?style=flat-square&logo=gamepad&logoColor=white)
-![3D Modeling](https://img.shields.io/badge/3D_Modeling-Intermediate-FF9800?style=flat-square&logo=blender&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game_Dev-Learning-FF6B6B?style=flat-square&logo=gamepad&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D_Modeling-Learning-FF9800?style=flat-square&logo=blender&logoColor=white)
 
 </div>
 
@@ -219,8 +213,8 @@ const sagar = {
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </div>
 
@@ -235,9 +229,9 @@ const sagar = {
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Proficient-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -255,8 +249,8 @@ const sagar = {
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-Proficient-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-Learning-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </div>
 
@@ -271,16 +265,14 @@ const sagar = {
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Proficient-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Proficient-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 </td>
 </tr>
 </table>
-
-
 
 ---
 
@@ -369,11 +361,6 @@ const sagar = {
 
 <br/>
 
-<!-- Activity Graph with Enhanced Styling -->
-<div align="center">
-
-
-
 <div align="center">
 
 ## <img src="trophy.gif" width="90"/> Achievements & Coding Platforms
@@ -443,8 +430,6 @@ const sagar = {
 </tr>
 </table>
 
-
-
 <div align="center">
 
 ## <img src="connect.gif" width="95"/> Let's Connect & Collaborate
@@ -489,7 +474,6 @@ const sagar = {
 </td>
 </tr>
 </table>
-
 
 ### ✨ *"In a world of temporary trends, I build lasting culture"* ✨
 
