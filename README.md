@@ -7,7 +7,7 @@
 
 </div>
 
-# <img src="hii2.0.gif" alt="Wave" width="150" /> About Me
+# <img src="heyo.gif" alt="Wave" width="150" /> About Me
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 <td width="35%" align="center" valign="top">
 
 <!-- DEVELOPER IMAGE -->
-<img src="spider.gif" width="380" alt="Coding Animation"/>
+<img src="velo.gif" width="422" alt="Coding Animation"/>
 
 <br/><br/>
 
