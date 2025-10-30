@@ -336,45 +336,28 @@ const sagar = {
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-  <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="80" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="60" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/SagarSinghAiree">
-  <img src="https://img.icons8.com/3d-fluency/94/twitterx--v2.png" width="80" alt="X"/>
+  <img src="X.png" width="70" alt="X "/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sagar.airee/">
-  <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="80" alt="Instagram"/>
+  <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="60" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@Acrejz_X">
-  <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="80" alt="YouTube"/>
+  <img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="60" alt="YouTube"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sagar.airee.coding@gmail.com">
-  <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="80" alt="Email"/>
+  <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="60" alt="Email"/>
 </a>
 </p>
 
 <br/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/SagarSinghAiree">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/sagar.airee/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@Acrejz_X">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="mailto:sagar.airee.coding@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
 
 ---
 
@@ -393,9 +376,3 @@ const sagar = {
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&color=ff0844&style=for-the-badge&label=VISITORS)
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75" />
-</p>
