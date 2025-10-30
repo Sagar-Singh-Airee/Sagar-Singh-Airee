@@ -380,12 +380,12 @@ const sagar = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=radical&no-frame=true&no-bg=false&column=3&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=radical&no-frame=true&no-bg=false&column=3&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="1000%"/>
 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 ### 🎯 Competitive Programming
 
