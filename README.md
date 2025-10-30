@@ -382,6 +382,8 @@ const sagar = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sagar-Singh-Airee&theme=radical&no-frame=true&no-bg=false&column=3&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="1000%"/>
 
+# <img src="trophyi.gif" alt="Wave" width="300" /> 
+
 </div>
 
 </td>
