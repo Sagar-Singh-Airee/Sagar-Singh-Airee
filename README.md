@@ -27,14 +27,11 @@
 🌏 **Based in India**  
 💼 **Software Engineer**
 
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </td>
 <td width="65%" valign="top">
 
-### 🎯 Professional Summary
+### 🎯 Summary
 
 Full Stack Developer with expertise in building scalable web applications and interactive experiences. Specializing in modern JavaScript frameworks, cloud infrastructure, and emerging technologies. Currently exploring Web3, AI/ML integration, and game development with Unreal Engine 5.
 
@@ -373,6 +370,6 @@ const sagar = {
 
 <br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&color=ff0844&style=for-the-badge&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Sagar-Singh-Airee&color=ff6b6b&style=for-the-badge&label=👁️+PROFILE+VIEWS)
 
 </div>
