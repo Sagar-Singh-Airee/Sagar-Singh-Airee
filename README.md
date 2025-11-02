@@ -86,7 +86,7 @@ const sagar = {
 <tr>
 <td width="60%" valign="top">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Languages
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="85"> Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java,html,css&perline=4&theme=dark" />
@@ -104,7 +104,7 @@ const sagar = {
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Frontend
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="105"> Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,materialui&perline=4&theme=dark" />
@@ -125,7 +125,7 @@ const sagar = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/kdQuCqJUZereGAUoyZ/giphy.gif" width="25"> Backend & Database
+### <img src="dev2.0.gif" width="155"> Backend & Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,firebase&perline=4&theme=dark" />
@@ -143,7 +143,7 @@ const sagar = {
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> Game Dev & 3D
+### <img src="game2.0.gif" width="155"> Game Dev & 3D
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unreal,unity,blender,threejs&perline=4&theme=dark" />
@@ -163,7 +163,7 @@ const sagar = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="25"> AI/ML & Data Science
+### <img src="ai2.0.gif" width="155"> AI/ML & Data Science
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3&theme=dark" />
@@ -183,7 +183,7 @@ const sagar = {
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="25"> DevOps & Cloud
+### <img src="android2.0.gif" width="105"> DevOps & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,githubactions&perline=4&theme=dark" />
@@ -204,7 +204,7 @@ const sagar = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Mobile Development
+### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="105"> Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,androidstudio&perline=4&theme=dark" />
@@ -221,7 +221,7 @@ const sagar = {
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Design & Tools
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="105"> Design & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,vscode,vim,postman,notion&perline=4&theme=dark" />
