@@ -35,6 +35,7 @@ Exploring Web3, Machine Learning, and Unreal Engine 5 on the side.
 <div align="center">
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 
 </div>
