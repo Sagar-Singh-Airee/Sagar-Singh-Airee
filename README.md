@@ -1,66 +1,40 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sagar-Singh-Airee/Sagar-Singh-Airee/main/sagar.png" width="100%" alt="Sagar Singh - Full Stack Developer" />
 
-### ⚡ Building Scalable Solutions, One Commit at a Time
+<br/>
 
-</div>
+# Sagar Singh
+**Full Stack Developer · AI/ML**
 
----
+`India` &nbsp;·&nbsp; Open to Freelance, Full-time & Collaborations
 
-## 🧑‍💻 About Me
-
-**Sagar Singh** • *Full Stack Developer & Game Development Enthusiast*
-
-🌏 Based in India | 💼 Software Engineer | ✉️ sagar.airee.coding@gmail.com
-
-**🎯 Current Focus:** Building Atheno-Card with React, Node.js, MongoDB & AWS  
-**🚀 Exploring:** Web3, Machine Learning & Unreal Engine 5  
-**🤝 Open to:** Freelance, Full-time & Collaborations
-
----
-
-## 🛠️ Technology Stack
-
-### **Languages & Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,html,css,python,cpp&perline=9&theme=dark" alt="Frontend Technologies" />
-</p>
-
-### **Backend & Database**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,docker&perline=7&theme=dark" alt="Backend Technologies" />
-</p>
-
-### **Mobile, Game Dev & AI/ML**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,unity,unreal,blender,tensorflow,pytorch&perline=7&theme=dark" alt="Mobile & Game Dev Technologies" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Singh-Airee&theme=redical&hide_border=true&custom_title=Contribution%20Graph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-singh-58a578386/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sagar.airee/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Acrejz_X)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+### About
+
+Currently building **Atheno-Card** — a full-stack project using React, Node.js, MongoDB & AWS.  
+Exploring Web3, Machine Learning, and Unreal Engine 5 on the side.
+
+---
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,tailwind&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,flutter,unity,unreal,blender,tensorflow,docker,aws&perline=9&theme=dark" />
+
+---
+
+### GitHub
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sagar-singh-58a578386/"><img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="50" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/sagar.airee/"><img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="50" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@Acrejz_X"><img src="https://img.icons8.com/3d-fluency/94/youtube-play.png" width="50" alt="YouTube"/></a>
-<a href="mailto:sagar.airee.coding@gmail.com"><img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="50" alt="Email"/></a>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=radical&hide_border=true)
 
-**💡 Open to collaborations, freelance projects, and full-time opportunities**
 
 </div>
