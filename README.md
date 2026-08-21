@@ -2,15 +2,15 @@
 
 # ACREJZ
 
-Systems Engineer building below the abstraction layer
+### Systems Engineer building below the abstraction layer
 
 <sub>India · Systems · AI/ML · Research</sub>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-singh-58a578386/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Acrejz_X)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sagar-singh-58a578386/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
+[![YouTube](https://img.shields.io/badge/-YouTube-000000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/channel/UCIE76ABvCd1ewxqxNOZ1ukA)
 
 </div>
 
@@ -18,13 +18,18 @@ Systems Engineer building below the abstraction layer
 
 ## About
 
-I don't like using something until I know how it actually works underneath. That's basically why this profile looks the way it does — CPU emulator, a VM, an OS, a compiler, a database, a TCP stack, a Raft implementation. Not because a roadmap told me to, but because at some point I hit a wall of "I don't actually know how this works" and went and built it instead of reading about it.
+I like understanding things **from the inside out**.
 
-Where that curiosity currently points:
+That means going below the API, into CPU execution, memory, kernels, runtimes, storage, protocols, and distributed computation.
 
-```
-digital logic → architecture → assembly → C/C++ → operating systems
-      → compilers & runtimes → databases → networks → distributed systems
+My work sits across:
+
+`Computer Architecture` · `Operating Systems` · `Compilers` · `Databases` · `Networks` · `Distributed Systems` · `AI/ML`
+
+```text
+digital logic → architecture → assembly → C/C++
+       → operating systems → compilers & runtimes
+       → databases → networks → distributed systems
 ```
 
 <br>
@@ -35,29 +40,33 @@ digital logic → architecture → assembly → C/C++ → operating systems
 <tr>
 <td valign="top" width="33%">
 
-**Languages**
-<br>
+### Languages
+
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash&theme=dark" />
 
 </td>
+
 <td valign="top" width="33%">
 
-**Systems**
-<br>
+### Systems
+
 <img src="https://skillicons.dev/icons?i=linux,git,cmake,docker&theme=dark" />
 
 </td>
+
 <td valign="top" width="33%">
 
-**ML / Data**
-<br>
+### AI / Data
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgresql,redis&theme=dark" />
 
 </td>
 </tr>
 </table>
 
-<sub>Tooling — GCC · Clang · GDB · QEMU · Make · LLVM · LLDB · Valgrind · strace · perf · Wireshark</sub>
+<sub>
+GCC · Clang · GDB · LLDB · QEMU · Make · LLVM · Valgrind · strace · perf · Wireshark
+</sub>
 
 <br>
 
@@ -65,27 +74,30 @@ digital logic → architecture → assembly → C/C++ → operating systems
 
 <details open>
 <summary><b>Systems</b></summary>
+
 <br>
 
-| Project | Focus |
-|---|---|
-| **AcrejzCPU** | Custom ISA + CPU emulator |
-| **AcrejzVM** | Bytecode VM + runtime |
-| **AcrejzOS** | 64-bit OS — virtual memory, scheduling, IPC, filesystem |
-| **AcrejzCompiler** | Language, AST, IR, optimization, x86-64 backend |
-| **AcrejzDB** | Storage engine — B+ trees, WAL, MVCC, recovery |
-| **AcrejzTCP** | TCP/IP stack, from scratch |
-| **AcrejzRaft** | Consensus, replication, fault tolerance |
+| Project            | Focus                                                      |
+| ------------------ | ---------------------------------------------------------- |
+| **AcrejzCPU**      | Custom ISA + CPU emulator                                  |
+| **AcrejzVM**       | Bytecode virtual machine + runtime                         |
+| **AcrejzOS**       | 64-bit OS · virtual memory · scheduling · IPC · filesystem |
+| **AcrejzCompiler** | Language · AST · IR · optimization · x86-64 backend        |
+| **AcrejzDB**       | Storage engine · B+ trees · WAL · MVCC · crash recovery    |
+| **AcrejzTCP**      | TCP/IP networking stack built from scratch                 |
+| **AcrejzRaft**     | Consensus · replication · fault tolerance                  |
 
 </details>
 
 <details>
 <summary><b>Applied</b></summary>
+
 <br>
 
-| Project | Focus |
-|---|---|
-| **StudyGloqe** | AI-powered adaptive learning platform |
+| Project        | Focus                                                |
+| -------------- | ---------------------------------------------------- |
+| **StudyGloqe** | AI-powered adaptive learning platform                |
+| **AI Systems** | Intelligent applications and experimental ML systems |
 
 </details>
 
@@ -93,17 +105,30 @@ digital logic → architecture → assembly → C/C++ → operating systems
 
 ## Research
 
-Working at the intersection of systems and intelligence — systems research, machine learning, intelligent systems, HCI, neuroengineering.
+Interested in the intersection of **systems and intelligence**.
+
+`Systems Research` · `Machine Learning` · `Intelligent Systems` · `HCI` · `Neuroengineering`
+
+<br>
 
 **Question → Hypothesis → Build → Measure → Break → Analyze → Publish**
 
 <br>
 
-## GitHub
+## Philosophy
+
+> **Don't just use the abstraction. Understand what is underneath it.**
+
+<br>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&cache_seconds=1800&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Singh-Airee&layout=compact&hide_border=true&theme=dark&bg_color=00000000&cache_seconds=1800" />
+
+**Build · Measure · Break · Understand**
+
+<br><br>
+
+<img src="./byy.gif" width="90">
+
 </div>
 
 <br>
@@ -111,6 +136,7 @@ Working at the intersection of systems and intelligence — systems research, ma
 ---
 
 <div align="center">
-<img src="./byy.gif" width="32" /><br>
-<sub><b>Build · Measure · Break · Understand</b></sub>
+
+<sub>ACREJZ · Systems · Intelligence · Research</sub>
+
 </div>
