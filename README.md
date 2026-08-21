@@ -1,41 +1,148 @@
 <div align="center">
 
-<br/>
+# ACREJZ
 
-# Sagar Singh
-**Full Stack Developer · AI/ML**
+### Computer Science · Systems · AI/ML
 
-`India` &nbsp;·&nbsp; Open to Freelance, Full-time & Collaborations
+`India` · `Systems Engineering` · `Research`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-singh-58a578386/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sagar.airee/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Acrejz_X)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagar.airee.coding@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/sagar-singh-58a578386/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:sagar.airee.coding@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@Acrejz_X">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-### About
+## About
 
-Currently building **Atheno-Card** — a full-stack project using React, Node.js, MongoDB & AWS.  
-Exploring Web3, Machine Learning, and Unreal Engine 5 on the side.
+Computer Science student focused on understanding computation **from first principles**.
+
+My work spans:
+
+`Computer Architecture` · `Operating Systems` · `Compilers` · `Databases` · `Networks` · `Distributed Systems` · `AI/ML`
+
+I build below the abstraction layer — working with **memory, CPU execution, kernels, runtimes, protocols and distributed computation**.
+
+<img src="./dev2.0.gif" width="38">
 
 ---
 
-### Stack
+## Core Stack
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,tailwind&perline=9&theme=dark" />
-<img src="https://skillicons.dev/icons?i=python,cpp,flutter,unity,unreal,blender,tensorflow,docker,aws&perline=9&theme=dark" />
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash&theme=dark">
+</p>
+
+### Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,cmake,docker&theme=dark">
+</p>
+
+`GCC` · `Clang` · `GDB` · `QEMU` · `Make` · `LLVM` · `LLDB` · `Valgrind` · `strace` · `perf` · `Wireshark`
+
+### AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
+</p>
+
+### Data & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgresql,redis&theme=dark">
+</p>
 
 ---
 
-### GitHub
+## Systems
+
+```text
+Digital Logic
+      ↓
+Computer Architecture
+      ↓
+Assembly
+      ↓
+C / C++
+      ↓
+Operating Systems
+      ↓
+Compilers & Runtimes
+      ↓
+Databases
+      ↓
+Computer Networks
+      ↓
+Distributed Systems
+```
+
+---
+
+## Selected Work
+
+| Project            | Focus                                                  |
+| ------------------ | ------------------------------------------------------ |
+| **AcrejzCPU**      | Custom ISA + CPU emulator                              |
+| **AcrejzVM**       | Bytecode VM + runtime                                  |
+| **AcrejzOS**       | 64-bit OS, virtual memory, scheduling, IPC, filesystem |
+| **AcrejzCompiler** | Language, AST, IR, optimization, x86-64 backend        |
+| **AcrejzDB**       | Storage engine, B+ trees, WAL, MVCC, recovery          |
+| **AcrejzTCP**      | From-scratch TCP/IP stack                              |
+| **AcrejzRaft**     | Consensus, replication, fault tolerance                |
+| **StudyGloqe**     | AI-powered adaptive learning platform                  |
+
+---
+
+## Research
+
+Interested in the intersection of **systems and intelligence**.
+
+`Systems Research` · `Machine Learning` · `Intelligent Systems` · `HCI` · `Neuroengineering`
+
+### Workflow
+
+**Question → Hypothesis → Build → Measure → Break → Analyze → Publish**
+
+<img src="./robot.gif" width="42">
+
+---
+
+## Other
+
+`React` · `TypeScript` · `Node.js` · `MongoDB` · `AWS` · `Unreal Engine` · `Unity` · `Blender`
+
+---
+
+## GitHub
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Singh-Airee&theme=radical&hide_border=true)
-![Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sagar-Singh-Airee&show_icons=true&hide_border=true&theme=transparent&rank_icon=github">
 
+<img height="165" src="https://streak-stats.demolab.com?user=Sagar-Singh-Airee&theme=transparent&hide_border=true">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./byy.gif" width="32">
+
+<br>
+
+**Build · Measure · Break · Understand**
 
 </div>
